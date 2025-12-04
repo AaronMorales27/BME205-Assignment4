@@ -1,0 +1,10 @@
+metric	value
+observed_overlap	689.0
+global_p_value	0.08192
+num_permutations	1000.0
+setA_regions	11.0
+setB_regions	11.0
+setA_total_bases	2383.0
+setB_total_bases	3812.0
+bonferroni_threshold	0.004545454545454546
+significant_regions_bonferroni	0.0

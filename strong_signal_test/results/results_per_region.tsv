@@ -1,0 +1,6 @@
+chrom	start	end	observed_overlap	p_value	significant_bonferroni
+chr1	1000	1200	200	0.000999000999000999	True
+chr1	2000	2100	0	1.0	False
+chr1	3000	3100	0	1.0	False
+chr1	4000	4100	0	1.0	False
+chr1	5000	5100	0	1.0	False

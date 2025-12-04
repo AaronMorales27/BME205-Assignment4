@@ -1,0 +1,10 @@
+name: permutation_test
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.10
+  - pysam>=0.21
+  - pandas>=2.0
+  - numpy>=1.24
+  - scipy>=1.10
